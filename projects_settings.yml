@@ -11,3 +11,17 @@ projec ts:
       - patrimonio culturale digitale
       - digitalizzazione
       - digital transformation
+  - name: Ecomic - Ecosistema digitale per la cultura
+    description: |
+      Report di inquadramento concettuale dell'ecosistema digitale per la cultura promosso dall'Istituto centrale per la digitalizzazione del patrimonio culturale - Digital Library. 
+      Il documento presenta la visione strategica, gli obiettivi e l'architettura dell'ecosistema Ecomic, che si configura come ambiente collaborativo distribuito per sostenere la trasformazione digitale del settore culturale italiano.
+    documents:
+      - ecomic-report
+    short_name: Ecomic
+    website: https://digitallibrary.cultura.gov.it
+    tags:
+      - ecosistema digitale
+      - patrimonio culturale digitale
+      - trasformazione digitale
+      - ecomic
+      - digitalizzazione
