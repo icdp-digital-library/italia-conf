@@ -1,8 +1,8 @@
-projec ts:
+projects:
   - name: Piano nazionale di digitalizzazione del patrimonio culturale
     description: | 
       Il PND costituisce la visione strategica con la quale il Ministero della Cultura intende promuovere e organizzare il processo di trasformazione digitale nel quinquennio 2022-2026.
-      Il piano si ri  volge ai musei, agli archivi, alle biblioteche, agli istituti centrali e ai luoghi della cultura statali che conservano, gestiscono e valorizzano i beni culturali.
+      Il piano si rivolge ai musei, agli archivi, alle biblioteche, agli istituti centrali e ai luoghi della cultura statali che conservano, gestiscono e valorizzano i beni culturali.
     documents:
       - PND-docs
     short_name: PND
@@ -16,7 +16,7 @@ projec ts:
       Report di inquadramento concettuale dell'ecosistema digitale per la cultura promosso dall'Istituto centrale per la digitalizzazione del patrimonio culturale - Digital Library. 
       Il documento presenta la visione strategica, gli obiettivi e l'architettura dell'ecosistema Ecomic, che si configura come ambiente collaborativo distribuito per sostenere la trasformazione digitale del settore culturale italiano.
     documents:
-      - ecomic-report
+      - ecomic-report-docs
     short_name: Ecomic
     website: https://digitallibrary.cultura.gov.it
     tags:
